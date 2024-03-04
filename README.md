@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  
-  <br>
   <b>Citra</b>
   <br>
 </h1>
@@ -10,14 +7,6 @@
 <br>
 It is written in C++ with portability in mind and builds are actively maintained for Windows, Linux, Android and macOS.
 </h4>
-
-<p align="center">
-    
-    <a href="https://discord.gg/FAXfZV9">
-        <img src="https://img.shields.io/discord/220740965957107713?color=%237289DA&label=Citra&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-</p>
 
 <p align="center">
   <a href="#compatibility">Compatibility</a> |
